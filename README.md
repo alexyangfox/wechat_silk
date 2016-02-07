@@ -29,7 +29,7 @@ Android 6.* 版本的微信，语音使用的编码是  SILK
 
 2. replace `test/Decoder.c`  in SILK SDK  
 
-3. Link with `setargv.obj` for `file expansion` parsing.  
+3. (if Windows) Link with `setargv.obj` for `file expansion` parsing.  
 
 Enjoy.
 
