@@ -3,6 +3,9 @@ Wechat SILK to wav
 
 `@2016-02-07`  
 
+![](tutorial.gif)  
+
+
 Android 6.* 版本的微信，语音使用的编码是  SILK  
 这个软件实现解码，并输出为 wav 文件  
 
@@ -24,7 +27,7 @@ Android 6.* 版本的微信，语音使用的编码是  SILK
 
 1. fork SILK SDK: [github link](https://github.com/gaozehua/SILKCodec/tree/master/SILK_SDK_SRC_FLP)  
 
-2. replace `test/Decoder.c`  
+2. replace `test/Decoder.c`  in SILK SDK  
 
 3. Link with `setargv.obj` for `file expansion` parsing.  
 
