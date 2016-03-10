@@ -524,7 +524,7 @@ int main(int argc, char* argv[])
 	}
 
 	// update the header
-	update_wave_header(speechOutFile, dataSize);
+	update_wave_header(speechOutFile, dataSize * sizeof(SKP_int16));
 	/* Close files */
 	fclose(speechOutFile);
 	fclose(bitInFile);

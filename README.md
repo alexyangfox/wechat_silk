@@ -1,6 +1,12 @@
 # wechat_silk
 Wechat SILK to wav 
 
+`@2016-03-10`  
+
+Bug Fixed：  
+之前 wav header 写错了  
+输出的音频只有原始音频一半长度。  
+
 `@2016-02-07`  
 
 ![](tutorial.gif)  
