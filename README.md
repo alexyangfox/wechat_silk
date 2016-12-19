@@ -1,6 +1,11 @@
 # wechat_silk
 Wechat SILK to wav 
 
+`@2016-12-20`
+
+另外 [AnLuoRidge](https://www.zhihu.com/people/anluoridge/answers) 同学写了一篇[文章](http://www.jianshu.com/p/71137d5acf78)总结了不同平台下，目前常见的微信语音导出和转换方法。
+
+
 `@2016-03-10`  
 
 Bug Fixed：  
